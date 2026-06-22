@@ -1,4 +1,4 @@
-# ProjectDNA
+# ProjectDNA 📊
 
 ProjectDNA is a simple Python tool that analyzes a codebase and generates a project health report.
 
